@@ -1,5 +1,5 @@
 # CPRE186
-Group project bruh
+Group project
 This is a puzzle game
 
-Why isn't there a windows folder in the natives folder under lib?
+Thee player is supposed to turn the position of the mirrors and beam shooter till the beam of light from the beam shooter hits the target
